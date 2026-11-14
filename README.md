@@ -1,6 +1,6 @@
 # TWOLINK_NODYCON
 
-This repository contains the numerical continuation data, multi-impact simulations, and visualization scripts accompanying the research article, [The Effect of Gait Stability Based on Two Types of Impact Strategies for Two-Link Walking and Brachiating Robots](https://arxiv.org/abs/2610.01004).
+This repository contains the numerical continuation data, multi-impact simulations, and visualization scripts accompanying the research article, [The Effect of Gait Stability Based on Two Types of Impact Strategies for Two-Link Walking and Brachiating Robots](https://arxiv.org/abs/2610.01004).  The paper was presented at NODYCON 2026.  A prerecorded version of the presentation is archived on [Cassyni](https://cassyni.com/events/KqyjMJLcFDtJvfqMV7w1z5).
 
 This research was co-authored by Alan Ruben Estrada Flores and Dr. Nelson Rosa Jr. at the Illinois Institute of Technology.
 
